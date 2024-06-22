@@ -10,7 +10,7 @@ Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some pas
 
 ## Round 3
 
-![Pool3](_03_whisk-2023-03-01-2024-07-31.png)
+![Pool3](boxplots/_03_whisk-2023-03-01-2024-07-31.png)
 
 ## Round 2
 
