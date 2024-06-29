@@ -1,4 +1,4 @@
-TITLE = "pool 3 games"
+TITLE = "round of 16"
 
 ALL_GAMES  = [
 # ROUND 1 = 14 to 18
@@ -58,29 +58,45 @@ ALL_GAMES  = [
 # ROUND 3 - 23 to 26 june
 
 #"Sunday 23 June 2024",
-["Switzerland","Germany"],
+#["Switzerland","Germany"],
 #"Sunday 23 June 2024",
-["Scotland","Hungary"],
+#["Scotland","Hungary"],
 #"Monday 24 June 2024",
-["Albania","Spain"],
+#["Albania","Spain"],
 #"Monday 24 June 2024",
-["Croatia","Italy"],
+#["Croatia","Italy"],
 #"Tuesday 25 June 2024",
-["Netherlands","Austria"],
+#["Netherlands","Austria"],
 #"Tuesday 25 June 2024",
-["France","Poland"],
+#["France","Poland"],
 #"Tuesday 25 June 2024",
-["England","Slovenia"],
+#["England","Slovenia"],
 #"Tuesday 25 June 2024",
-["Denmark","Serbia"],
+#["Denmark","Serbia"],
 #"Wednesday 26 June 2024",
-["Slovakia","Romania"],
+#["Slovakia","Romania"],
 #"Wednesday 26 June 2024",
-["Ukraine","Belgium"],
+#["Ukraine","Belgium"],
 #"Wednesday 26 June 2024",
-["Georgia","Portugal"],
+#["Georgia","Portugal"],
 #"Wednesday 26 June 2024",
-["Czechia","Turkiye"],
+#["Czechia","Turkiye"],
+
+# ROUND OF 16 - june 29th to jul 2nd
+
+#Saturday 29 June 2024,
+["Switzerland","Italy"],
+["Germany","Denmark"],
+#Sunday 30 June 2024,
+["England","Slovakia"],
+["Spain","Georgia"],
+#Monday 1 July 2024,
+["France","Belgium"],
+["Portugal","Slovenia"],
+#Tuesday 2 July 2024,
+["Romania","Netherlands"],
+["Austria","Turkiye"],
+
 ]
 #########
 
