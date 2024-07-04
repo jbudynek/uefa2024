@@ -8,14 +8,38 @@ Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some pas
 - Run `01_make_games_list.py` then `02_bradley_terry.py` then `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
-## Round of 16
+## Quarters 
+
+![Quarters](boxplots/_05_whisk-2023-03-01-2024-07-31.png)
+
+
+## Round of 16 and results
 
 ![RoundOf16](boxplots/_04_whisk-2023-03-01-2024-07-31.png)
 
-## Analysis
+Results: **I got 7 out of 8 predictions right! That's 87.5%.** All in all so far, 22 out of 44 so an even 50% success rate.
+
+<details>
+ <summary>Results of round of 16</summary>
+
+|  **Team 1** | **Team 2** | **Winner** | **Bet** | **1 if bet is right** |
+|---|---|---|---|---|
+| Switzerland | Italy | Switzerland | Switzerland | 1 |
+| Germany | Denmark | Germany | Germany | 1 |
+| England | Slovakia | England | England | 1 |
+| Spain | Georgia | Spain | Spain | 1 |
+| France | Belgium | France | France | 1 |
+| Portugal | Slovenia | Portugal | Portugal | 1 |
+| Romania | Netherlands | Netherlands | Romania | 0 |
+| Austria | Turkey | Turkey | Turkey | 1 |
+
+</details>
+
+
+## Pool games analysis
 
 Well it was not a huge success. Round 1: 8 out of 12 (67%). Round 2: 4 out of 12 (33%). Round 3: 3 out of 12 (25%)!!!
-All in all, **15 out of 36 so only 42% good pronostics**. I guess there were many draws, which we don't use well in modeling, adn also don't predict well.
+All in all, **15 out of 36 so only 42% good pronostics**. I guess there were many draws, which we don't use well in modeling, and also don't predict well.
 Let's hope we do better in the next stages!
 
 <details>
