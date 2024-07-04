@@ -1,4 +1,4 @@
-TITLE = "round of 16"
+TITLE = "quarters"
 
 ALL_GAMES  = [
 # ROUND 1 = 14 to 18
@@ -85,17 +85,28 @@ ALL_GAMES  = [
 # ROUND OF 16 - june 29th to jul 2nd
 
 #Saturday 29 June 2024,
-["Switzerland","Italy"],
-["Germany","Denmark"],
+#["Switzerland","Italy"],
+#["Germany","Denmark"],
 #Sunday 30 June 2024,
-["England","Slovakia"],
-["Spain","Georgia"],
+#["England","Slovakia"],
+#["Spain","Georgia"],
 #Monday 1 July 2024,
-["France","Belgium"],
-["Portugal","Slovenia"],
+#["France","Belgium"],
+#["Portugal","Slovenia"],
 #Tuesday 2 July 2024,
-["Romania","Netherlands"],
-["Austria","Turkiye"],
+#["Romania","Netherlands"],
+#["Austria","Turkiye"],
+
+# QUARTERS
+#Friday 5 July 2024,
+["Spain","Germany"],
+#Friday 5 July 2024,
+["Portugal","France"],
+#Saturday 6 July 2024,
+["England","Switzerland"],
+#Saturday 6 July 2024,
+["Netherlands","Turkiye"],
+
 
 ]
 #########

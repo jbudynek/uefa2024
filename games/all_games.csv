@@ -1,216 +1,224 @@
 ,date,team_1,team_2,win_1,win_2
 0,Friday 13 October 2023,Liechtenstein,Bosnia and Herzegovina,False,True
-1,Friday 13 October 2023,Austria,Belgium,False,True
-2,Friday 13 October 2023,Republic of Ireland,Greece,False,True
-3,Friday 13 October 2023,Netherlands,France,False,True
-4,Friday 13 October 2023,Estonia,Azerbaijan,False,True
-5,Friday 13 October 2023,Portugal,Slovakia,True,False
+1,Friday 13 October 2023,Portugal,Slovakia,True,False
+2,Friday 13 October 2023,Austria,Belgium,False,True
+3,Friday 13 October 2023,Republic of Ireland,Greece,False,True
+4,Friday 13 October 2023,Netherlands,France,False,True
+5,Friday 13 October 2023,Estonia,Azerbaijan,False,True
 6,Friday 14 June 2024,Germany,Scotland,True,False
-7,Friday 16 June 2023,Finland,Slovenia,True,False
-8,Friday 16 June 2023,Belarus,Israel,False,True
-9,Friday 16 June 2023,Andorra,Switzerland,False,True
-10,Friday 16 June 2023,San Marino,Kazakhstan,False,True
-11,Friday 16 June 2023,Denmark,Northern Ireland,True,False
-12,Friday 16 June 2023,Latvia,Turkiye,False,True
-13,Friday 16 June 2023,Wales,Armenia,False,True
-14,Friday 16 June 2023,North Macedonia,Ukraine,False,True
-15,Friday 16 June 2023,Malta,England,False,True
-16,Friday 16 June 2023,Gibraltar,France,False,True
-17,Friday 16 June 2023,Greece,Republic of Ireland,True,False
-18,Friday 17 November 2023,Kazakhstan,San Marino,True,False
-19,Friday 17 November 2023,Denmark,Slovenia,True,False
-20,Friday 17 November 2023,England,Malta,True,False
-21,Friday 17 November 2023,Italy,North Macedonia,True,False
-22,Friday 17 November 2023,Finland,Northern Ireland,True,False
+7,Friday 16 June 2023,San Marino,Kazakhstan,False,True
+8,Friday 16 June 2023,Andorra,Switzerland,False,True
+9,Friday 16 June 2023,Latvia,Turkiye,False,True
+10,Friday 16 June 2023,Wales,Armenia,False,True
+11,Friday 16 June 2023,North Macedonia,Ukraine,False,True
+12,Friday 16 June 2023,Malta,England,False,True
+13,Friday 16 June 2023,Gibraltar,France,False,True
+14,Friday 16 June 2023,Greece,Republic of Ireland,True,False
+15,Friday 16 June 2023,Denmark,Northern Ireland,True,False
+16,Friday 16 June 2023,Belarus,Israel,False,True
+17,Friday 16 June 2023,Finland,Slovenia,True,False
+18,Friday 17 November 2023,Denmark,Slovenia,True,False
+19,Friday 17 November 2023,England,Malta,True,False
+20,Friday 17 November 2023,Kazakhstan,San Marino,True,False
+21,Friday 17 November 2023,Finland,Northern Ireland,True,False
+22,Friday 17 November 2023,Italy,North Macedonia,True,False
 23,Friday 21 June 2024,Slovakia,Ukraine,False,True
 24,Friday 21 June 2024,Poland,Austria,False,True
-25,Friday 24 March 2023,Serbia,Lithuania,True,False
-26,Friday 24 March 2023,Austria,Azerbaijan,True,False
-27,Friday 24 March 2023,Sweden,Belgium,False,True
-28,Friday 24 March 2023,Czechia,Poland,True,False
-29,Friday 24 March 2023,Gibraltar,Greece,False,True
-30,Friday 24 March 2023,France,Netherlands,True,False
-31,Friday 24 March 2023,Bulgaria,Montenegro,False,True
-32,Friday 8 September 2023,Cyprus,Scotland,False,True
-33,Friday 8 September 2023,Slovakia,Portugal,False,True
-34,Friday 8 September 2023,Bosnia and Herzegovina,Liechtenstein,True,False
-35,Friday 8 September 2023,Luxembourg,Iceland,True,False
-36,Friday 8 September 2023,Georgia,Spain,False,True
-37,Friday 8 September 2023,Croatia,Latvia,True,False
-38,Monday 11 September 2023,Slovakia,Liechtenstein,True,False
-39,Monday 11 September 2023,Portugal,Luxembourg,True,False
-40,Monday 11 September 2023,Iceland,Bosnia and Herzegovina,True,False
+25,Friday 24 March 2023,Bulgaria,Montenegro,False,True
+26,Friday 24 March 2023,Serbia,Lithuania,True,False
+27,Friday 24 March 2023,Austria,Azerbaijan,True,False
+28,Friday 24 March 2023,Sweden,Belgium,False,True
+29,Friday 24 March 2023,Czechia,Poland,True,False
+30,Friday 24 March 2023,Gibraltar,Greece,False,True
+31,Friday 24 March 2023,France,Netherlands,True,False
+32,Friday 8 September 2023,Bosnia and Herzegovina,Liechtenstein,True,False
+33,Friday 8 September 2023,Cyprus,Scotland,False,True
+34,Friday 8 September 2023,Georgia,Spain,False,True
+35,Friday 8 September 2023,Slovakia,Portugal,False,True
+36,Friday 8 September 2023,Croatia,Latvia,True,False
+37,Friday 8 September 2023,Luxembourg,Iceland,True,False
+38,Monday 1 July 2024,Portugal,Slovenia,True,False
+39,Monday 1 July 2024,France,Belgium,True,False
+40,Monday 11 September 2023,Armenia,Croatia,False,True
 41,Monday 11 September 2023,Latvia,Wales,False,True
-42,Monday 11 September 2023,Armenia,Croatia,False,True
-43,Monday 16 October 2023,Gibraltar,Republic of Ireland,False,True
-44,Monday 16 October 2023,Bosnia and Herzegovina,Portugal,False,True
-45,Monday 16 October 2023,Iceland,Liechtenstein,True,False
-46,Monday 16 October 2023,Luxembourg,Slovakia,False,True
-47,Monday 16 October 2023,Azerbaijan,Austria,False,True
-48,Monday 16 October 2023,Greece,Netherlands,False,True
-49,Monday 17 June 2024,Romania,Ukraine,True,False
-50,Monday 17 June 2024,Belgium,Slovakia,False,True
+42,Monday 11 September 2023,Iceland,Bosnia and Herzegovina,True,False
+43,Monday 11 September 2023,Portugal,Luxembourg,True,False
+44,Monday 11 September 2023,Slovakia,Liechtenstein,True,False
+45,Monday 16 October 2023,Gibraltar,Republic of Ireland,False,True
+46,Monday 16 October 2023,Azerbaijan,Austria,False,True
+47,Monday 16 October 2023,Greece,Netherlands,False,True
+48,Monday 16 October 2023,Luxembourg,Slovakia,False,True
+49,Monday 16 October 2023,Iceland,Liechtenstein,True,False
+50,Monday 16 October 2023,Bosnia and Herzegovina,Portugal,False,True
 51,Monday 17 June 2024,Austria,France,False,True
-52,Monday 19 June 2023,France,Greece,True,False
-53,Monday 19 June 2023,Belarus,Kosovo,True,False
-54,Monday 19 June 2023,Israel,Andorra,True,False
-55,Monday 19 June 2023,Northern Ireland,Kazakhstan,False,True
+52,Monday 17 June 2024,Belgium,Slovakia,False,True
+53,Monday 17 June 2024,Romania,Ukraine,True,False
+54,Monday 19 June 2023,Northern Ireland,Kazakhstan,False,True
+55,Monday 19 June 2023,Turkiye,Wales,True,False
 56,Monday 19 June 2023,England,North Macedonia,True,False
 57,Monday 19 June 2023,Republic of Ireland,Gibraltar,True,False
-58,Monday 19 June 2023,Finland,San Marino,True,False
-59,Monday 19 June 2023,Turkiye,Wales,True,False
-60,Monday 19 June 2023,Ukraine,Malta,True,False
-61,Monday 19 June 2023,Armenia,Latvia,True,False
-62,Monday 20 November 2023,San Marino,Finland,False,True
-63,Monday 20 November 2023,Slovenia,Kazakhstan,True,False
-64,Monday 20 November 2023,Northern Ireland,Denmark,True,False
-65,Monday 20 November 2023,Czechia,Moldova,True,False
-66,Monday 24 June 2024,Albania,Spain,False,True
-67,Monday 27 March 2023,Netherlands,Gibraltar,True,False
-68,Monday 27 March 2023,Montenegro,Serbia,False,True
-69,Monday 27 March 2023,Sweden,Azerbaijan,True,False
-70,Monday 27 March 2023,Poland,Albania,True,False
-71,Monday 27 March 2023,Republic of Ireland,France,False,True
-72,Monday 27 March 2023,Hungary,Bulgaria,True,False
+58,Monday 19 June 2023,France,Greece,True,False
+59,Monday 19 June 2023,Israel,Andorra,True,False
+60,Monday 19 June 2023,Armenia,Latvia,True,False
+61,Monday 19 June 2023,Ukraine,Malta,True,False
+62,Monday 19 June 2023,Finland,San Marino,True,False
+63,Monday 19 June 2023,Belarus,Kosovo,True,False
+64,Monday 20 November 2023,Slovenia,Kazakhstan,True,False
+65,Monday 20 November 2023,San Marino,Finland,False,True
+66,Monday 20 November 2023,Czechia,Moldova,True,False
+67,Monday 20 November 2023,Northern Ireland,Denmark,True,False
+68,Monday 24 June 2024,Albania,Spain,False,True
+69,Monday 27 March 2023,Netherlands,Gibraltar,True,False
+70,Monday 27 March 2023,Republic of Ireland,France,False,True
+71,Monday 27 March 2023,Poland,Albania,True,False
+72,Monday 27 March 2023,Sweden,Azerbaijan,True,False
 73,Monday 27 March 2023,Austria,Estonia,True,False
-74,Saturday 14 October 2023,Hungary,Serbia,True,False
-75,Saturday 14 October 2023,Denmark,Kazakhstan,True,False
-76,Saturday 14 October 2023,Bulgaria,Lithuania,False,True
-77,Saturday 14 October 2023,Northern Ireland,San Marino,True,False
-78,Saturday 14 October 2023,Italy,Malta,True,False
-79,Saturday 14 October 2023,Slovenia,Finland,True,False
-80,Saturday 14 October 2023,Ukraine,North Macedonia,True,False
-81,Saturday 15 June 2024,Italy,Albania,True,False
-82,Saturday 15 June 2024,Hungary,Switzerland,False,True
-83,Saturday 15 June 2024,Spain,Croatia,True,False
-84,Saturday 17 June 2023,Faroe Islands,Czechia,False,True
-85,Saturday 17 June 2023,Luxembourg,Liechtenstein,True,False
-86,Saturday 17 June 2023,Norway,Scotland,False,True
-87,Saturday 17 June 2023,Iceland,Slovakia,False,True
-88,Saturday 17 June 2023,Portugal,Bosnia and Herzegovina,True,False
-89,Saturday 17 June 2023,Albania,Moldova,True,False
+74,Monday 27 March 2023,Montenegro,Serbia,False,True
+75,Monday 27 March 2023,Hungary,Bulgaria,True,False
+76,Saturday 14 October 2023,Ukraine,North Macedonia,True,False
+77,Saturday 14 October 2023,Denmark,Kazakhstan,True,False
+78,Saturday 14 October 2023,Hungary,Serbia,True,False
+79,Saturday 14 October 2023,Italy,Malta,True,False
+80,Saturday 14 October 2023,Slovenia,Finland,True,False
+81,Saturday 14 October 2023,Bulgaria,Lithuania,False,True
+82,Saturday 14 October 2023,Northern Ireland,San Marino,True,False
+83,Saturday 15 June 2024,Italy,Albania,True,False
+84,Saturday 15 June 2024,Spain,Croatia,True,False
+85,Saturday 15 June 2024,Hungary,Switzerland,False,True
+86,Saturday 17 June 2023,Faroe Islands,Czechia,False,True
+87,Saturday 17 June 2023,Albania,Moldova,True,False
+88,Saturday 17 June 2023,Luxembourg,Liechtenstein,True,False
+89,Saturday 17 June 2023,Norway,Scotland,False,True
 90,Saturday 17 June 2023,Cyprus,Georgia,False,True
-91,Saturday 18 November 2023,Israel,Romania,False,True
-92,Saturday 18 November 2023,Latvia,Croatia,False,True
-93,Saturday 18 November 2023,Belarus,Andorra,True,False
+91,Saturday 17 June 2023,Portugal,Bosnia and Herzegovina,True,False
+92,Saturday 17 June 2023,Iceland,Slovakia,False,True
+93,Saturday 18 November 2023,Netherlands,Republic of Ireland,True,False
 94,Saturday 18 November 2023,France,Gibraltar,True,False
-95,Saturday 18 November 2023,Netherlands,Republic of Ireland,True,False
-96,Saturday 22 June 2024,Belgium,Romania,True,False
-97,Saturday 22 June 2024,Turkiye,Portugal,False,True
-98,Saturday 25 March 2023,Andorra,Romania,False,True
-99,Saturday 25 March 2023,Spain,Norway,True,False
+95,Saturday 18 November 2023,Latvia,Croatia,False,True
+96,Saturday 18 November 2023,Belarus,Andorra,True,False
+97,Saturday 18 November 2023,Israel,Romania,False,True
+98,Saturday 22 June 2024,Turkiye,Portugal,False,True
+99,Saturday 22 June 2024,Belgium,Romania,True,False
 100,Saturday 25 March 2023,Belarus,Switzerland,False,True
-101,Saturday 25 March 2023,Armenia,Turkiye,False,True
-102,Saturday 25 March 2023,Scotland,Cyprus,True,False
-103,Saturday 9 September 2023,Estonia,Sweden,False,True
-104,Saturday 9 September 2023,Azerbaijan,Belgium,False,True
-105,Sunday 10 September 2023,Greece,Gibraltar,True,False
-106,Sunday 10 September 2023,Republic of Ireland,Netherlands,False,True
-107,Sunday 10 September 2023,Faroe Islands,Moldova,False,True
-108,Sunday 10 September 2023,Lithuania,Serbia,False,True
-109,Sunday 10 September 2023,Albania,Poland,True,False
-110,Sunday 10 September 2023,San Marino,Slovenia,False,True
-111,Sunday 10 September 2023,Kazakhstan,Northern Ireland,True,False
+101,Saturday 25 March 2023,Andorra,Romania,False,True
+102,Saturday 25 March 2023,Spain,Norway,True,False
+103,Saturday 25 March 2023,Armenia,Turkiye,False,True
+104,Saturday 25 March 2023,Scotland,Cyprus,True,False
+105,Saturday 29 June 2024,Germany,Denmark,True,False
+106,Saturday 29 June 2024,Switzerland,Italy,True,False
+107,Saturday 9 September 2023,Azerbaijan,Belgium,False,True
+108,Saturday 9 September 2023,Estonia,Sweden,False,True
+109,Sunday 10 September 2023,Lithuania,Serbia,False,True
+110,Sunday 10 September 2023,Kazakhstan,Northern Ireland,True,False
+111,Sunday 10 September 2023,San Marino,Slovenia,False,True
 112,Sunday 10 September 2023,Montenegro,Bulgaria,True,False
 113,Sunday 10 September 2023,Finland,Denmark,False,True
-114,Sunday 12 November 2023,Kosovo,Israel,True,False
-115,Sunday 15 October 2023,Romania,Andorra,True,False
-116,Sunday 15 October 2023,Wales,Croatia,True,False
-117,Sunday 15 October 2023,Czechia,Faroe Islands,True,False
-118,Sunday 15 October 2023,Norway,Spain,False,True
-119,Sunday 15 October 2023,Turkiye,Latvia,True,False
-120,Sunday 15 October 2023,Georgia,Cyprus,True,False
-121,Sunday 16 June 2024,Poland,Netherlands,False,True
-122,Sunday 16 June 2024,Serbia,England,False,True
-123,Sunday 19 November 2023,Portugal,Iceland,True,False
-124,Sunday 19 November 2023,Spain,Georgia,True,False
-125,Sunday 19 November 2023,Liechtenstein,Luxembourg,False,True
-126,Sunday 19 November 2023,Hungary,Montenegro,True,False
-127,Sunday 19 November 2023,Bosnia and Herzegovina,Slovakia,False,True
-128,Sunday 19 November 2023,Sweden,Estonia,True,False
+114,Sunday 10 September 2023,Republic of Ireland,Netherlands,False,True
+115,Sunday 10 September 2023,Greece,Gibraltar,True,False
+116,Sunday 10 September 2023,Albania,Poland,True,False
+117,Sunday 10 September 2023,Faroe Islands,Moldova,False,True
+118,Sunday 12 November 2023,Kosovo,Israel,True,False
+119,Sunday 15 October 2023,Romania,Andorra,True,False
+120,Sunday 15 October 2023,Norway,Spain,False,True
+121,Sunday 15 October 2023,Turkiye,Latvia,True,False
+122,Sunday 15 October 2023,Wales,Croatia,True,False
+123,Sunday 15 October 2023,Czechia,Faroe Islands,True,False
+124,Sunday 15 October 2023,Georgia,Cyprus,True,False
+125,Sunday 16 June 2024,Serbia,England,False,True
+126,Sunday 16 June 2024,Poland,Netherlands,False,True
+127,Sunday 19 November 2023,Liechtenstein,Luxembourg,False,True
+128,Sunday 19 November 2023,Hungary,Montenegro,True,False
 129,Sunday 19 November 2023,Belgium,Azerbaijan,True,False
-130,Sunday 23 June 2024,Scotland,Hungary,False,True
-131,Sunday 26 March 2023,Luxembourg,Portugal,False,True
-132,Sunday 26 March 2023,Kazakhstan,Denmark,True,False
-133,Sunday 26 March 2023,England,Ukraine,True,False
-134,Sunday 26 March 2023,Slovenia,San Marino,True,False
-135,Sunday 26 March 2023,Liechtenstein,Iceland,False,True
-136,Sunday 26 March 2023,Malta,Italy,False,True
-137,Sunday 26 March 2023,Northern Ireland,Finland,False,True
-138,Sunday 26 March 2023,Slovakia,Bosnia and Herzegovina,True,False
-139,Thursday 12 October 2023,Andorra,Kosovo,False,True
-140,Thursday 12 October 2023,Faroe Islands,Poland,False,True
-141,Thursday 12 October 2023,Albania,Czechia,True,False
-142,Thursday 12 October 2023,Croatia,Turkiye,False,True
-143,Thursday 12 October 2023,Cyprus,Norway,False,True
-144,Thursday 12 October 2023,Spain,Scotland,True,False
+130,Sunday 19 November 2023,Sweden,Estonia,True,False
+131,Sunday 19 November 2023,Spain,Georgia,True,False
+132,Sunday 19 November 2023,Portugal,Iceland,True,False
+133,Sunday 19 November 2023,Bosnia and Herzegovina,Slovakia,False,True
+134,Sunday 23 June 2024,Scotland,Hungary,False,True
+135,Sunday 26 March 2023,England,Ukraine,True,False
+136,Sunday 26 March 2023,Kazakhstan,Denmark,True,False
+137,Sunday 26 March 2023,Slovakia,Bosnia and Herzegovina,True,False
+138,Sunday 26 March 2023,Liechtenstein,Iceland,False,True
+139,Sunday 26 March 2023,Malta,Italy,False,True
+140,Sunday 26 March 2023,Northern Ireland,Finland,False,True
+141,Sunday 26 March 2023,Luxembourg,Portugal,False,True
+142,Sunday 26 March 2023,Slovenia,San Marino,True,False
+143,Sunday 30 June 2024,Spain,Georgia,True,False
+144,Sunday 30 June 2024,England,Slovakia,True,False
 145,Thursday 12 October 2023,Latvia,Armenia,True,False
-146,Thursday 16 November 2023,Montenegro,Lithuania,True,False
-147,Thursday 16 November 2023,Liechtenstein,Portugal,False,True
-148,Thursday 16 November 2023,Luxembourg,Bosnia and Herzegovina,True,False
-149,Thursday 16 November 2023,Slovakia,Iceland,True,False
-150,Thursday 16 November 2023,Azerbaijan,Sweden,True,False
-151,Thursday 16 November 2023,Estonia,Austria,False,True
-152,Thursday 16 November 2023,Cyprus,Spain,False,True
-153,Thursday 20 June 2024,Spain,Italy,True,False
-154,Thursday 21 March 2024,Wales,Finland,True,False
-155,Thursday 21 March 2024,Poland,Estonia,True,False
-156,Thursday 21 March 2024,Greece,Kazakhstan,True,False
-157,Thursday 21 March 2024,Israel,Iceland,False,True
-158,Thursday 21 March 2024,Bosnia and Herzegovina,Ukraine,False,True
-159,Thursday 21 March 2024,Georgia,Luxembourg,True,False
-160,Thursday 23 March 2023,Italy,England,False,True
-161,Thursday 23 March 2023,North Macedonia,Malta,True,False
-162,Thursday 23 March 2023,Denmark,Finland,True,False
-163,Thursday 23 March 2023,San Marino,Northern Ireland,False,True
-164,Thursday 23 March 2023,Portugal,Liechtenstein,True,False
-165,Thursday 23 March 2023,Bosnia and Herzegovina,Iceland,True,False
-166,Thursday 23 March 2023,Kazakhstan,Slovenia,False,True
-167,Thursday 7 September 2023,Serbia,Hungary,False,True
-168,Thursday 7 September 2023,Poland,Faroe Islands,True,False
-169,Thursday 7 September 2023,Netherlands,Greece,True,False
-170,Thursday 7 September 2023,France,Republic of Ireland,True,False
-171,Thursday 7 September 2023,Kazakhstan,Finland,False,True
-172,Thursday 7 September 2023,Slovenia,Northern Ireland,True,False
-173,Thursday 7 September 2023,Denmark,San Marino,True,False
-174,Tuesday 12 September 2023,Norway,Georgia,True,False
-175,Tuesday 12 September 2023,Romania,Kosovo,True,False
-176,Tuesday 12 September 2023,Israel,Belarus,True,False
-177,Tuesday 12 September 2023,Spain,Cyprus,True,False
-178,Tuesday 12 September 2023,Italy,Ukraine,True,False
-179,Tuesday 12 September 2023,Malta,North Macedonia,False,True
-180,Tuesday 12 September 2023,Belgium,Estonia,True,False
-181,Tuesday 12 September 2023,Switzerland,Andorra,True,False
-182,Tuesday 12 September 2023,Sweden,Austria,False,True
-183,Tuesday 17 October 2023,Northern Ireland,Slovenia,False,True
-184,Tuesday 17 October 2023,Serbia,Montenegro,True,False
-185,Tuesday 17 October 2023,Malta,Ukraine,False,True
-186,Tuesday 17 October 2023,England,Italy,True,False
-187,Tuesday 17 October 2023,Finland,Kazakhstan,False,True
-188,Tuesday 17 October 2023,San Marino,Denmark,False,True
-189,Tuesday 18 June 2024,Turkiye,Georgia,True,False
-190,Tuesday 18 June 2024,Portugal,Czechia,True,False
-191,Tuesday 20 June 2023,Austria,Sweden,True,False
-192,Tuesday 20 June 2023,Faroe Islands,Albania,False,True
-193,Tuesday 20 June 2023,Norway,Cyprus,True,False
-194,Tuesday 20 June 2023,Scotland,Georgia,True,False
-195,Tuesday 20 June 2023,Moldova,Poland,True,False
-196,Tuesday 20 June 2023,Estonia,Belgium,False,True
-197,Tuesday 20 June 2023,Liechtenstein,Slovakia,False,True
-198,Tuesday 20 June 2023,Iceland,Portugal,False,True
-199,Tuesday 20 June 2023,Bosnia and Herzegovina,Luxembourg,False,True
-200,Tuesday 20 June 2023,Hungary,Lithuania,True,False
-201,Tuesday 21 November 2023,Croatia,Armenia,True,False
-202,Tuesday 21 November 2023,Romania,Switzerland,True,False
-203,Tuesday 21 November 2023,Gibraltar,Netherlands,False,True
-204,Tuesday 21 November 2023,Kosovo,Belarus,False,True
-205,Tuesday 21 November 2023,Andorra,Israel,False,True
-206,Tuesday 25 June 2024,Netherlands,Austria,False,True
-207,Tuesday 28 March 2023,Romania,Belarus,True,False
-208,Tuesday 28 March 2023,Switzerland,Israel,True,False
-209,Tuesday 28 March 2023,Wales,Latvia,True,False
-210,Tuesday 28 March 2023,Turkiye,Croatia,False,True
-211,Tuesday 28 March 2023,Scotland,Spain,True,False
-212,Wednesday 19 June 2024,Germany,Hungary,True,False
-213,Wednesday 26 June 2024,Georgia,Portugal,True,False
-214,Wednesday 26 June 2024,Czechia,Turkiye,False,True
+146,Thursday 12 October 2023,Spain,Scotland,True,False
+147,Thursday 12 October 2023,Cyprus,Norway,False,True
+148,Thursday 12 October 2023,Croatia,Turkiye,False,True
+149,Thursday 12 October 2023,Albania,Czechia,True,False
+150,Thursday 12 October 2023,Faroe Islands,Poland,False,True
+151,Thursday 12 October 2023,Andorra,Kosovo,False,True
+152,Thursday 16 November 2023,Liechtenstein,Portugal,False,True
+153,Thursday 16 November 2023,Luxembourg,Bosnia and Herzegovina,True,False
+154,Thursday 16 November 2023,Montenegro,Lithuania,True,False
+155,Thursday 16 November 2023,Azerbaijan,Sweden,True,False
+156,Thursday 16 November 2023,Slovakia,Iceland,True,False
+157,Thursday 16 November 2023,Cyprus,Spain,False,True
+158,Thursday 16 November 2023,Estonia,Austria,False,True
+159,Thursday 20 June 2024,Spain,Italy,True,False
+160,Thursday 21 March 2024,Bosnia and Herzegovina,Ukraine,False,True
+161,Thursday 21 March 2024,Wales,Finland,True,False
+162,Thursday 21 March 2024,Poland,Estonia,True,False
+163,Thursday 21 March 2024,Israel,Iceland,False,True
+164,Thursday 21 March 2024,Greece,Kazakhstan,True,False
+165,Thursday 21 March 2024,Georgia,Luxembourg,True,False
+166,Thursday 23 March 2023,North Macedonia,Malta,True,False
+167,Thursday 23 March 2023,Italy,England,False,True
+168,Thursday 23 March 2023,San Marino,Northern Ireland,False,True
+169,Thursday 23 March 2023,Portugal,Liechtenstein,True,False
+170,Thursday 23 March 2023,Bosnia and Herzegovina,Iceland,True,False
+171,Thursday 23 March 2023,Denmark,Finland,True,False
+172,Thursday 23 March 2023,Kazakhstan,Slovenia,False,True
+173,Thursday 7 September 2023,Slovenia,Northern Ireland,True,False
+174,Thursday 7 September 2023,Denmark,San Marino,True,False
+175,Thursday 7 September 2023,Serbia,Hungary,False,True
+176,Thursday 7 September 2023,Poland,Faroe Islands,True,False
+177,Thursday 7 September 2023,Netherlands,Greece,True,False
+178,Thursday 7 September 2023,France,Republic of Ireland,True,False
+179,Thursday 7 September 2023,Kazakhstan,Finland,False,True
+180,Tuesday 12 September 2023,Sweden,Austria,False,True
+181,Tuesday 12 September 2023,Spain,Cyprus,True,False
+182,Tuesday 12 September 2023,Norway,Georgia,True,False
+183,Tuesday 12 September 2023,Romania,Kosovo,True,False
+184,Tuesday 12 September 2023,Israel,Belarus,True,False
+185,Tuesday 12 September 2023,Switzerland,Andorra,True,False
+186,Tuesday 12 September 2023,Italy,Ukraine,True,False
+187,Tuesday 12 September 2023,Belgium,Estonia,True,False
+188,Tuesday 12 September 2023,Malta,North Macedonia,False,True
+189,Tuesday 17 October 2023,Northern Ireland,Slovenia,False,True
+190,Tuesday 17 October 2023,San Marino,Denmark,False,True
+191,Tuesday 17 October 2023,Serbia,Montenegro,True,False
+192,Tuesday 17 October 2023,Malta,Ukraine,False,True
+193,Tuesday 17 October 2023,England,Italy,True,False
+194,Tuesday 17 October 2023,Finland,Kazakhstan,False,True
+195,Tuesday 18 June 2024,Portugal,Czechia,True,False
+196,Tuesday 18 June 2024,Turkiye,Georgia,True,False
+197,Tuesday 2 July 2024,Austria,Turkiye,False,True
+198,Tuesday 2 July 2024,Romania,Netherlands,False,True
+199,Tuesday 20 June 2023,Moldova,Poland,True,False
+200,Tuesday 20 June 2023,Scotland,Georgia,True,False
+201,Tuesday 20 June 2023,Norway,Cyprus,True,False
+202,Tuesday 20 June 2023,Faroe Islands,Albania,False,True
+203,Tuesday 20 June 2023,Austria,Sweden,True,False
+204,Tuesday 20 June 2023,Estonia,Belgium,False,True
+205,Tuesday 20 June 2023,Hungary,Lithuania,True,False
+206,Tuesday 20 June 2023,Bosnia and Herzegovina,Luxembourg,False,True
+207,Tuesday 20 June 2023,Liechtenstein,Slovakia,False,True
+208,Tuesday 20 June 2023,Iceland,Portugal,False,True
+209,Tuesday 21 November 2023,Gibraltar,Netherlands,False,True
+210,Tuesday 21 November 2023,Croatia,Armenia,True,False
+211,Tuesday 21 November 2023,Romania,Switzerland,True,False
+212,Tuesday 21 November 2023,Andorra,Israel,False,True
+213,Tuesday 21 November 2023,Kosovo,Belarus,False,True
+214,Tuesday 25 June 2024,Netherlands,Austria,False,True
+215,Tuesday 28 March 2023,Romania,Belarus,True,False
+216,Tuesday 28 March 2023,Switzerland,Israel,True,False
+217,Tuesday 28 March 2023,Wales,Latvia,True,False
+218,Tuesday 28 March 2023,Turkiye,Croatia,False,True
+219,Tuesday 28 March 2023,Scotland,Spain,True,False
+220,Wednesday 19 June 2024,Germany,Hungary,True,False
+221,Wednesday 26 June 2024,Georgia,Portugal,True,False
+222,Wednesday 26 June 2024,Czechia,Turkiye,False,True
