@@ -1,6 +1,6 @@
 # UEFA Euro 2024
 
-Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some past data.
+Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some past data. See also https://github.com/jbudynek/rugby2023
 
 ## HOWTO
 - Fill out `input_data/uefa-data-euro24.csv` with most up to date results;
@@ -8,10 +8,28 @@ Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some pas
 - Run `01_make_games_list.py` then `02_bradley_terry.py` then `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
-## Quarters 
+## Semifinals
+
+![Quarters](boxplots/_06_whisk-2023-03-01-2024-07-31.png)
+
+
+## Quarters and results
 
 ![Quarters](boxplots/_05_whisk-2023-03-01-2024-07-31.png)
 
+Results: **I got 3 out of 4 predictions right! That's 75%.** All in all so far, 25 out of 48 so a success rate of 52%.
+
+<details>
+ <summary>Results of quarters</summary>
+
+|  **Team 1** | **Team 2** | **Winner** | **Bet** | **1 if bet is right** |
+|---|---|---|---|---|
+| Spain | Germany | Spain | Spain | 1 |
+| Portugal | France | France | France | 1 |
+| England | Switzerland | England | England | 1 |
+| Netherlands | Turkey | Netherlands | Turkey | 0 | 
+
+</details>
 
 ## Round of 16 and results
 
