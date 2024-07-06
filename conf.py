@@ -1,4 +1,4 @@
-TITLE = "quarters"
+TITLE = "semifinals"
 
 ALL_GAMES  = [
 # ROUND 1 = 14 to 18
@@ -99,14 +99,20 @@ ALL_GAMES  = [
 
 # QUARTERS
 #Friday 5 July 2024,
-["Spain","Germany"],
+#["Spain","Germany"],
 #Friday 5 July 2024,
-["Portugal","France"],
+#["Portugal","France"],
 #Saturday 6 July 2024,
-["England","Switzerland"],
+#["England","Switzerland"],
 #Saturday 6 July 2024,
-["Netherlands","Turkiye"],
+#["Netherlands","Turkiye"],
 
+# SEMIS
+
+#Tuesday 9 July 2024,
+["Spain","France"],
+#Wednesday 10 July 2024,
+["Netherlands","England"],
 
 ]
 #########

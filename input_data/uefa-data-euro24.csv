@@ -43,7 +43,9 @@ Monday 1 July 2024,France,Belgium,1,0,TRUE,FALSE
 Monday 1 July 2024,Portugal,Slovenia,0,0,TRUE,FALSE
 Tuesday 2 July 2024,Romania,Netherlands,0,3,FALSE,TRUE
 Tuesday 2 July 2024,Austria,Turkiye,1,2,FALSE,TRUE
-Friday 5 July 2024,Spain,Germany,,,FALSE,FALSE
-Friday 5 July 2024,Portugal,France,,,FALSE,FALSE
-Saturday 6 July 2024,England,Switzerland,,,FALSE,FALSE
-Saturday 6 July 2024,Netherlands,Turkiye,,,FALSE,FALSE
+Friday 5 July 2024,Spain,Germany,2,1,TRUE,FALSE
+Friday 5 July 2024,Portugal,France,0,0,FALSE,TRUE
+Saturday 6 July 2024,England,Switzerland,1,1,TRUE,FALSE
+Saturday 6 July 2024,Netherlands,Turkiye,2,1,TRUE,FALSE
+Tuesday 9 July 2024,Spain,France,,,FALSE,FALSE
+Wednesday 10 July 2024,Netherlands,England,,,FALSE,FALSE
