@@ -1,4 +1,4 @@
-TITLE = "semifinals"
+TITLE = "final game"
 
 ALL_GAMES  = [
 # ROUND 1 = 14 to 18
@@ -110,9 +110,14 @@ ALL_GAMES  = [
 # SEMIS
 
 #Tuesday 9 July 2024,
-["Spain","France"],
+#["Spain","France"],
 #Wednesday 10 July 2024,
-["Netherlands","England"],
+#["Netherlands","England"],
+
+# FINAL
+
+#Sunday 14 July 2024,
+["Spain","England"],
 
 ]
 #########
