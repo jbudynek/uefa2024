@@ -8,9 +8,22 @@ Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some pas
 - Run `01_make_games_list.py` then `02_bradley_terry.py` then `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
-## Final game
+## Final game and results!
 
 ![Final](boxplots/_07_whisk-2023-03-01-2024-07-31.png)
+
+Results: **I found the right winner!** All in all, 28 good pronostics out of 51 games so **a total success rate of 54.9%**.
+
+TODO for next PL: find better data source for past games, and find out how to handle draws in a meaningful way.
+
+<details>
+ <summary>Results of semifinals</summary>
+
+|  **Team 1** | **Team 2** | **Winner** | **Bet** | **1 if bet is right** |
+|---|---|---|---|---|
+| Spain | England | Spain | Spain | 1 |
+
+</details>
 
 ## Semifinals and results
 
