@@ -14,10 +14,10 @@ Simple pronostics for Euro 2024 football cup based on Bradley-Terry and some pas
 
 Results: **I found the right winner!** All in all, 28 good pronostics out of 51 games so **a total success rate of 54.9%**.
 
-TODO for next PL: find better data source for past games, and find out how to handle draws in a meaningful way.
+TODO for next time: find better data source for past games, and find out how to handle draws in a meaningful way.
 
 <details>
- <summary>Results of semifinals</summary>
+ <summary>Results of final game</summary>
 
 |  **Team 1** | **Team 2** | **Winner** | **Bet** | **1 if bet is right** |
 |---|---|---|---|---|
